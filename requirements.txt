@@ -1,0 +1,5 @@
+streamlit - To create the interactive web application
+PyPDF2 - To extract text from PDF resumes
+pandas - To store and display ranked resume results
+sklearn.feature_extraction.text	- To convert text data into numerical form (TF-IDF)
+sklearn.metrics.pairwise - To calculate similarity between job descriptions and resumes
